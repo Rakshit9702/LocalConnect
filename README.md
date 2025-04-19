@@ -30,4 +30,4 @@ To get a local copy up and running, follow these simple steps:
 
 #### 1. **Clone this repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/your-repo-name.git
+git clone https://github.com/Rakshit9702/LocalConnect.git
